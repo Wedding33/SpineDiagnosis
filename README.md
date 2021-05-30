@@ -21,3 +21,4 @@
 
 --img 400 --batch 1 --data ./data/Medicalanalyze_v5.yaml --weights ./weights/Model_2nd.pt（V5单独检测）
 
+【观察结果可到./runs/ 中查看】
