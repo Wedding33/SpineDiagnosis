@@ -1,0 +1,6 @@
+train: ../Medical_E/train/images/
+val: ../Medical_E/train/images/
+
+nc: 6
+
+names: ['ztv1','ztv2','zjpv1','zjpv2','zjpv3','zjpv4']

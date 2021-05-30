@@ -1,0 +1,7 @@
+train: ../Medical_D_v5/train/images/
+val: ../Medical_D_v5/test/images/
+
+nc: 1
+# ztv1 ztv2 zjpv1 zjpv2 zjpv3 zjpv4 zjpv5 zjpv1v5 zjpv2v5 zjpv3v5 zjpv4v5
+
+names: ['v5']
