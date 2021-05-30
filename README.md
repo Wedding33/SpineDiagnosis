@@ -13,7 +13,7 @@ https://wed-nesday.lanzoui.com/iopA8pmi6bc
 
  
  
-直接检测多张图片:
+【直接检测多张图片】:
 
 将待检测分类的图片放入inference/images/里，在detect.py的运行配置中输入：
 
@@ -21,7 +21,7 @@ https://wed-nesday.lanzoui.com/iopA8pmi6bc
 
 --source inference/images/ --weights ./weights/Model_2nd.pt（V5单独检测）
 
-测试集使用:
+【测试集使用】:
 
 在./data/Medicalanalyze.yaml 或./data/Medicalanalyze_v5.yaml 中修改test或val的路径
 
