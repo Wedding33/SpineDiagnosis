@@ -22,3 +22,10 @@
 --img 400 --batch 1 --data ./data/Medicalanalyze_v5.yaml --weights ./weights/Model_2nd.pt（V5单独检测）
 
 【观察结果可到./runs/ 中查看】
+
+![image](https://user-images.githubusercontent.com/61083624/120103371-de553480-c181-11eb-8592-1e6d9abd2418.png) ![image](https://user-images.githubusercontent.com/61083624/120103374-e1e8bb80-c181-11eb-98ed-2dedc408b0dd.png)
+
+
+![image](https://user-images.githubusercontent.com/61083624/120103378-e9a86000-c181-11eb-8d66-ebe2e9faf030.png) ![image](https://user-images.githubusercontent.com/61083624/120103380-ec0aba00-c181-11eb-9918-daec814ca2ca.png)
+
+
