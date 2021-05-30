@@ -11,8 +11,8 @@ https://wed-nesday.lanzoui.com/iopA8pmi6bc
 
 需要将模型解压至./weights/】
 
-
-
+ 
+ 
 直接检测多张图片:
 
 将待检测分类的图片放入inference/images/里，在detect.py的运行配置中输入：
