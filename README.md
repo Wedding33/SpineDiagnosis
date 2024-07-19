@@ -3,7 +3,7 @@
 
 ## 使用说明
 
-需要下载模型`Model_1st.pt`和`Model_2nd.pt`，需要将模型解压至./weights/，下载链接：
+需要下载模型`Model_1st.pt`和`Model_2nd.pt`，需要将模型解压至`./weights/`，下载链接：
 
 - https://wed-nesday.lanzoui.com/iKxhhpmi3sb
 
